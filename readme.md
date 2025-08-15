@@ -1,0 +1,1 @@
+mkdir -p Cybersecurity_Internship_3_Months/{Month_1/{Orientation,Training_Sessions,Assignments,Attendance,Project_Logs},Month_2/{Advanced_Training,Assignments,Attendance,Project_Logs},Month_3/{Capstone_Project/{Weekly_Progress,Final_Submission},Attendance,Feedback},Resources/{Toolkits,Social_Media_Posts/LinkedIn_Attendance_Screenshots}}
